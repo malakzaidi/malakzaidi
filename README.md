@@ -1,66 +1,85 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Malak+Zaidi!;AI+Master’s+Student;Passionate+About+AI+%26+Distributed+Systems;Let’s+Shape+the+Future+of+AI+Together!" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I'm+Malak+Zaidi!;&center=true&size=30">
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPGU51uDlwLIiLe/giphy.gif" width="400" alt="AI Gif">
-</p>
-
-I’m an **AI Master’s student** with a strong foundation in **Computer Science** and **Mathematics**. My passion lies in building **scalable, efficient solutions** to real-world problems, leveraging cutting-edge technologies in **Artificial Intelligence** and **Distributed Systems**.
-
-🌟 **Let’s connect and collaborate to push the boundaries of AI!**
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/malak-zaidi/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://medium.com/@yourhandle"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://github.com/malakzaidi"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,spring,docker,kubernetes,mysql,postgres,git,github,tensorflow,pytorch" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malakzaidi&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakzaidi&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <em>AI Master's Student | Distributed Systems Enthusiast | Problem Solver</em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakzaidi&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=malakzaidi&color=brightgreen" alt="Profile Views">
+  <a href="https://linkedin.com/in/malak-zaidi/"><img src="https://img.shields.io/badge/-Connect_with_me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/malak-zaidi/"></a>
 </p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malakzaidi&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakzaidi&theme=radical" alt="GitHub Streak" height="165">
+</div>
 
-## 🏆 Achievements
+## 🎓 About Me
+
+I'm passionate about solving complex problems at the intersection of **Artificial Intelligence** and **Distributed Systems**. With a strong foundation in Computer Science and Mathematics, I'm constantly exploring innovative ways to build scalable, efficient solutions that make a real impact.
+
+## 🚀 Current Focus
+
+- 🎯 Pursuing Master's in AI and Distributed Systems
+- 🔭 Exploring cutting-edge AI technologies
+- 🌱 Building scalable solutions for real-world problems
+- 👯 Open to collaborating on innovative AI projects
+
+## 💻 Tech Stack
+
+<details>
+<summary>Programming Languages</summary>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</details>
+
+<details>
+<summary>AI & Data Science</summary>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+</details>
+
+<details>
+<summary>Backend & Cloud</summary>
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+</details>
+
+<details>
+<summary>Frontend & Tools</summary>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</details>
+
+## 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/IBM-Introduction%20to%20Cloud%20Computing-blue" alt="IBM Certified" />
-  <img src="https://img.shields.io/badge/Google-Cloud%20Engineering-green" alt="Google Certified" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-purple" alt="Azure AI Certified" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakzaidi&theme=radical&layout=compact" alt="Top Languages">
 </p>
 
+<div align="center">
+  
+### 🤝 Let's Connect and Build Something Amazing Together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malak-zaidi/)
+
+</div>
+
 ---
-
-## 🎯 Current Focus
-- Deep Learning & Computer Vision 🧠
-- Large-Scale Distributed Systems ⚡
-- AI Model Optimization 📈
-- Research & Innovation 🚀
-
----
-
-## 💬 Fun Fact
-💡 Did you know? The term **"bug"** in programming was coined when a real moth was found inside a computer, causing a malfunction! 🦋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+collaborate!&center=true&size=20">
+</p>
