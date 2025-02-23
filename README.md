@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Malak+Zaidi!;AI+Master’s+Student;Passionate+About+AI+%26+Distributed+Systems;Let’s+Shape+the+Future+of+AI+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Malak+Zaidi!;AI+Master’s+Student;Passionate+About+AI+%26+Distributed+Systems;Let’s+Shape+the+Future+of+AI+Together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,40 +12,31 @@ I’m an **AI Master’s student** with a strong foundation in **Computer Scienc
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malak-zaidi/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/malakzaidi)
+<p align="center">
+  <a href="https://linkedin.com/in/malak-zaidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@yourhandle">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://github.com/malakzaidi">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,spring,tensorflow,pytorch,docker,kubernetes,git,aws,firebase,postgres,html,css,bootstrap,figma&perline=10" alt="Tech Stack" />
+</p>
 
 ---
 
 ## 🎯 Featured Projects
-Here are some of my standout projects:
-
 ### 🌿 **Reverd Africa**
 - **Description**: A web application to manage climate solutions for African regions using a microservices architecture.
 - **Tech Stack**: React.js, Spring Boot, Spring Cloud, Netflix Eureka Server.
@@ -76,15 +67,27 @@ Here are some of my standout projects:
 ---
 
 ## 🏆 Achievements
-- **IBM Certified**: Introduction to Cloud Computing.
-- **Accenture Certified**: Introduction to Artificial Intelligence (AI).
-- **INCO Academy**: Green Digital Skills Program.
-- **FORSA Certified**: Digital Content Creation.
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM-Introduction%20to%20Cloud%20Computing-blue" alt="IBM Certified" />
+  <img src="https://img.shields.io/badge/Accenture-Introduction%20to%20AI-blue" alt="Accenture Certified" />
+  <img src="https://img.shields.io/badge/INCO%20Academy-Green%20Digital%20Skills-green" alt="INCO Academy" />
+  <img src="https://img.shields.io/badge/FORSA-Digital%20Content%20Creation-orange" alt="FORSA Certified" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
-I’m always open to collaborating on exciting projects or discussing AI, Distributed Systems, and more. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/malak-zaidi/) or [email](mailto:your.email@example.com).
+<p align="center">
+  <a href="mailto:malak.zaidi@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/malak-zaidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/malakzaidi">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
