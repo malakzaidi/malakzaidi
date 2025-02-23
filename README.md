@@ -31,7 +31,7 @@ I’m an **AI Master’s student** with a strong foundation in **Computer Scienc
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,spring,tensorflow,pytorch,docker,kubernetes,git,aws,firebase,postgres,html,css,bootstrap,figma&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,bootstrap,react,nodejs,spring,tensorflow,pytorch,docker,kubernetes,git,aws,firebase,postgres,latex,figma&perline=10" alt="Tech Stack" />
 </p>
 
 ---
