@@ -1,133 +1,24 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Malak%20Zaidi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Master's%20Student%20|%20Full%20Stack%20Developer%20|%20Tech%20Innovator&descAlignY=55&descSize=15" />
+👋 Hi, I'm Malak Zaidi! I’m an AI Master’s student focused on Artificial Intelligence and Distributed Systems, with a background in Computer Science and Mathematics. I’m passionate about building scalable, efficient solutions to real-world problems.
 
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A0DAD&center=true&vCenter=true&width=435&lines=AI+%26+Distributed+Systems+Expert;Full+Stack+Developer;Microservices+Architecture;Innovation+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </div>
+🌟 Let’s connect and shape the future of AI together!
 
-  [![Visits](https://komarev.com/ghpvc/?username=malakzaidi&label=Profile%20Views&color=6A0DAD&style=for-the-badge)](https://github.com/malakzaidi)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/malak-zaidi/)
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/malak-zaidi/) 
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  About Me
-</h2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=malakzaidi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=malakzaidi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malakzaidi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-```javascript
-const malak = {
-    education: "Master's in AI & Distributed Systems @ ENSET Mohammedia",
-    background: ["Computer Science", "Mathematics"],
-    currentRole: "Founder & CEO @ Resarti",
-    passions: ["AI Innovation", "Scalable Solutions", "Green Technology"],
-    skills: {
-        ai_ml: ["PyTorch", "TensorFlow", "Federated Learning", "Computer Vision"],
-        backend: ["Java", "Spring Boot", "Node.js", "Microservices"],
-        frontend: ["React.js", "JavaScript", "HTML5/CSS3", "Bootstrap"],
-        cloud: ["Docker", "Kubernetes", "Google Cloud", "Firebase"],
-        databases: ["PostgreSQL", "MongoDB", "Hibernate"],
-        tools: ["Git", "Maven", "Kafka", "Postman"]
-    }
-};
-```
+---
+[![](https://visitcount.itsvg.in/api?id=malakzaidi&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakzaidi&theme=midnight-purple&hide_border=true&stroke=6A0DAD&fire=6A0DAD&ring=6A0DAD" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=malakzaidi&hide_border=true&show_icons=true&theme=midnight-purple&icon_color=6A0DAD&title_color=6A0DAD" height="180" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🚀 Featured Projects
 
-<details>
-<summary><b>🌍 Reverd Africa - Climate Solutions Platform</b></summary>
-<br>
-
-- Developed a microservices-based web application for managing climate solutions in Africa
-- Tech Stack: React.js, Spring Boot, Spring Cloud, Netflix Eureka
-- Key Features:
-  - Microservices Architecture
-  - Real-time Data Processing
-  - Scalable Infrastructure
-  - Environmental Impact Tracking
-</details>
-
-<details>
-<summary><b>🏥 Healthcare Federated Learning Visualization</b></summary>
-<br>
-
-- Created an innovative simulation for privacy-preserving AI in healthcare
-- Tech Stack: PyTorch, Matplotlib, Manim, NumPy
-- Achievements:
-  - Implemented distributed training workflow
-  - Created advanced data visualizations
-  - Demonstrated real-world AI applications
-</details>
-
-<details>
-<summary><b>🤖 ChatEnset - Educational AI Assistant</b></summary>
-<br>
-
-- Built an AI-powered chatbot for enhanced learning experiences
-- Tech Stack: NLP, Python, Machine Learning
-- Impact:
-  - Improved student engagement
-  - Streamlined learning processes
-  - Successfully presented at ENSET
-</details>
-
-## 💼 Professional Experience
-
-```mermaid
-timeline
-    title Career Journey
-    2024 : Founder & CEO at Resarti
-         : AI-powered Virtual Assistant Solution
-         : SaaS Platform Development
-    2024 : Full Stack & Microservices Developer
-         : Université Hassan II Ben M'Sik
-         : Reverd Africa Project
-    2024 : Started Master's in AI
-         : ENSET Mohammedia
-         : Advanced AI Research
-```
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-Expert-6A0DAD?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-Advanced-6A0DAD?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-6A0DAD?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-Proficient-6A0DAD?style=for-the-badge&logo=react)
-![Spring](https://img.shields.io/badge/Spring-Advanced-6A0DAD?style=for-the-badge&logo=spring)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-6A0DAD?style=for-the-badge&logo=docker)
-
-</div>
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malakzaidi&theme=react-dark&hide_border=true&color=6A0DAD&line=6A0DAD&point=6A0DAD" width="100%" />
-</div>
-
-## 🎓 Certifications & Achievements
-
-- IBM Cloud Computing (Credential ID: MBENTLS7JB2Q)
-- Strategic Thinking 101 (Arizona State University)
-- Accenture AI Fundamentals
-- INCO Academy Green Digital Skills
-- Microsoft Azure Synapse Solutions
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/malak-zaidi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6A0DAD?style=for-the-badge&logo=github)](https://github.com/malakzaidi)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" />
-</div> adjust it there are somethings not working and add the stacks
+<!---
+malakzaidi/malakzaidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
