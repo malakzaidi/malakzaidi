@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,29,30&height=180&section=header" width="100%" />
 
   <!-- Simple profile picture with basic styling -->
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Profile%20picture-GvODWzG0OVsXeM1THuEejiDNQynJdD.png" alt="Malak Zaidi" width="220" height="220" style="border-radius: 50%; border: 8px solid #FF69B4;" />
+  
 
   <h1 style="color: #FF69B4; font-family: 'Dancing Script', cursive;">✨ Malak Zaidi ✨</h1>
   
